@@ -7,6 +7,7 @@ my_array = ["Blanche", "Rose", "Sophia", "Dorothy"]
 end
 
 def add_element_to_end_of_array(array, element)
+my_array = ["Blanche", "Rose", "Sophia", "Dorothy"]
 my_array << "Stan"
 end
 
